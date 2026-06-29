@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SanskarCodes/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/SanskarCodes/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SanskarCodes/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SanskarCodes/DSA/tree/master/0189-rotate-array) |

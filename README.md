@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SanskarCodes/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SanskarCodes/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SanskarCodes/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SanskarCodes/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SanskarCodes/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanskarCodes/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SanskarCodes/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanskarCodes/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SanskarCodes/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SanskarCodes/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SanskarCodes/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SanskarCodes/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SanskarCodes/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SanskarCodes/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SanskarCodes/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SanskarCodes/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SanskarCodes/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanskarCodes/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SanskarCodes/DSA/tree/master/0268-missing-number) |

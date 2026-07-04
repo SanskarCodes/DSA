@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SanskarCodes/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SanskarCodes/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SanskarCodes/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/SanskarCodes/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanskarCodes/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/SanskarCodes/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanskarCodes/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SanskarCodes/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SanskarCodes/DSA/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanskarCodes/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanskarCodes/DSA/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -135,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SanskarCodes/DSA/tree/master/0013-roman-to-integer) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

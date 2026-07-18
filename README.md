@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SanskarCodes/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SanskarCodes/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanskarCodes/DSA/tree/master/0268-missing-number) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SanskarCodes/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SanskarCodes/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SanskarCodes/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SanskarCodes/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SanskarCodes/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SanskarCodes/DSA/tree/master/0410-split-array-largest-sum) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SanskarCodes/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 <!---LeetCode Topics End-->

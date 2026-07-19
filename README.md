@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SanskarCodes/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SanskarCodes/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/SanskarCodes/DSA/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/SanskarCodes/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SanskarCodes/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SanskarCodes/DSA/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/SanskarCodes/DSA/tree/master/0525-contiguous-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SanskarCodes/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanskarCodes/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SanskarCodes/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/SanskarCodes/DSA/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |

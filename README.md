@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SanskarCodes/DSA/tree/master/0013-roman-to-integer) |
+| [1021-remove-outermost-parentheses](https://github.com/SanskarCodes/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SanskarCodes/DSA/tree/master/0410-split-array-largest-sum) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SanskarCodes/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SanskarCodes/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

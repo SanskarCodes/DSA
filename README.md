@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SanskarCodes/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanskarCodes/DSA/tree/master/0268-missing-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SanskarCodes/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1903-largest-odd-number-in-string](https://github.com/SanskarCodes/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SanskarCodes/DSA/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/SanskarCodes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SanskarCodes/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/SanskarCodes/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SanskarCodes/DSA/tree/master/0410-split-array-largest-sum) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SanskarCodes/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1903-largest-odd-number-in-string](https://github.com/SanskarCodes/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |

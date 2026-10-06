@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SanskarCodes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SanskarCodes/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SanskarCodes/DSA/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/SanskarCodes/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/SanskarCodes/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/SanskarCodes/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SanskarCodes/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/SanskarCodes/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/SanskarCodes/DSA/tree/master/0410-split-array-largest-sum) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SanskarCodes/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SanskarCodes/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanskarCodes/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SanskarCodes/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/SanskarCodes/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SanskarCodes/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/SanskarCodes/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/SanskarCodes/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/SanskarCodes/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SanskarCodes/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/SanskarCodes/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/SanskarCodes/DSA/tree/master/2104-sum-of-subarray-ranges) |
